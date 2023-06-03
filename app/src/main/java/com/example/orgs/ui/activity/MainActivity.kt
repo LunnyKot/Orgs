@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.orgs.R
 import com.example.orgs.ui.recyclerview.adapter.ListaProdutosAdapter
 
-//Changes Branch
+//Changing branches
 class MainActivity: Activity() {
 
     override fun onCreate(savedInstanceState: Bundle?){
